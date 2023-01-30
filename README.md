@@ -11,7 +11,7 @@
     
 ## In-Class Assignments
         
-    ### ICA1
+    ### ICA1 https://katiepelle.github.io/katiepellegrini/wa/wa1.html
         
     ### ICA2
         
