@@ -11,7 +11,7 @@
     
 ## In-Class Assignments
         
-    ### ICA1 https://katiepelle.github.io/katiepellegrini/wa/wa1.html
+    ### ICA1
         
     ### ICA2
         
@@ -43,9 +43,9 @@
     
 ## Weekly Assignments
 
-    ### WA1
+    ### WA1 https://katiepelle.github.io/katiepellegrini/wa/wa1.html
     
-    ### WA2
+    ### WA2 https://katiepelle.github.io/katiepellegrini/wa/wa2.html
     
     ### WA3
     
