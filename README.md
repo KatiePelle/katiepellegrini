@@ -15,7 +15,7 @@
         
     ### ICA2
         
-    ### ICA3
+    ### ICA3 https://katiepelle.github.io/katiepellegrini/ica/ica3a.html https://katiepelle.github.io/katiepellegrini/ica/ica3b.html
     
     ### ICA4
         
