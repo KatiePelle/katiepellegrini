@@ -11,13 +11,13 @@
     
 ## In-Class Assignments
         
-    ### ICA1
+    ### ICA1 https://katiepelle.github.io/katiepellegrini/ica/ica1.html
         
-    ### ICA2
+    ### ICA2 https://katiepelle.github.io/katiepellegrini/ica/ica2.html
         
     ### ICA3 https://katiepelle.github.io/katiepellegrini/ica/ica3a.html https://katiepelle.github.io/katiepellegrini/ica/ica3b.html
     
-    ### ICA4
+    ### ICA4 https://katiepelle.github.io/katiepellegrini/ica/ica4.html
         
     ### ICA5
             
@@ -47,11 +47,11 @@
     
     ### WA2 https://katiepelle.github.io/katiepellegrini/wa/wa2.html
     
-    ### WA3
+    ### WA3 https://katiepelle.github.io/katiepellegrini/wa/wa3.html
     
-    ### WA4
+    ### WA4 https://katiepelle.github.io/katiepellegrini/wa/wa4.html
     
-    ### WA5
+    ### WA5 
     
     ### WA6
     
