@@ -3,7 +3,7 @@
 
 ## Projects
 
-    #### HTML
+    #### HTML https://katiepelle.github.io/katiepellegrini/html-midterm.html
     
     ### CSS
     
@@ -19,7 +19,7 @@
     
     ### ICA4 https://katiepelle.github.io/katiepellegrini/ica/ica4.html
         
-    ### ICA5
+    ### ICA5 https://katiepelle.github.io/katiepellegrini/ica/ica5.html
             
     ### ICA6 https://katiepelle.github.io/katiepellegrini/ica/ica6/ica6-part1.html
         
@@ -51,7 +51,7 @@
     
     ### WA4 https://katiepelle.github.io/katiepellegrini/wa/wa4.html
     
-    ### WA5 
+    ### WA5 https://katiepelle.github.io/katiepellegrini/wa/wa5.html
     
     ### WA6
     
