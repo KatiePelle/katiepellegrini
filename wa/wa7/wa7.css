@@ -31,8 +31,8 @@ nav a{
 
 
 img{
-    width:30vw;
-    height: 30vh;
+    max-width: 50%;
+    height: auto;
 }
 
 #red-ball{
