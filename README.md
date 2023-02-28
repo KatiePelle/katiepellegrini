@@ -53,9 +53,9 @@
     
     ### WA5 https://katiepelle.github.io/katiepellegrini/wa/wa5.html
     
-    ### WA6
+    ### WA6 https://katiepelle.github.io/katiepellegrini/wa/wa6.html
     
-    ### WA7
+    ### WA7 https://katiepelle.github.io/katiepellegrini/wa/wa7/wa7.html
     
     ### WA8
     
