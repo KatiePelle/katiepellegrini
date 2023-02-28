@@ -19,11 +19,14 @@ body{
     position: relative;
     background-color: orangered;
     animation-name: box2move;
-    animation-iteration-count: 5;
-    animation-duration: 2s;
+    animation-iteration-count: 500;
+    animation-duration: .5s;
 }
 
 @keyframes box2move{
-    0%{background-color: orangered; height: 20vh;}
-    100%{background-color: aquamarine; height: 500vh;}
+    0%{left: 0; top:0}
+    25%{left:75vh;top:0}
+    50%{left:75vh;top:80vh}
+    75%{left:0;top:80vh}
+    100%{left:0; top:0}
 }
