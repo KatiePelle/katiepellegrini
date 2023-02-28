@@ -10,7 +10,7 @@ h1{
 }
 nav{
     height: 50vh;
-    display:flex;
+    display:grid
     flex-direction: row;
     justify-content: space-between;
     height:20px;
@@ -31,8 +31,8 @@ nav a{
 
 
 img{    
-    width: 200px;
-    height: 200px;
+    max-width: 200px;
+    max-height: 200px;
 
 }
 
