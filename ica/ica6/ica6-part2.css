@@ -15,6 +15,14 @@ body{
 #grid-parent{
     display:grid;
 }
+#grid-parent{
+    margin: 0;
+    padding: 0 20px;
+    max-width: 80px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0px;
+  }
 
 #grid-parent h1{
     background-color: grey;
