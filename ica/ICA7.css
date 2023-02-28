@@ -8,13 +8,22 @@ body{
 }
 
 
+#box1:hover {
+    background-color: purple;
+}
+
+
 #box2{
     width: 25vw;
     height:20vh;
     position: relative;
     background-color: orangered;
+    animation-name: box2move;
+    animation-iteration-count: 5;
+    animation-duration: 2s;
 }
 
 @keyframes box2move{
-
+    0%{background-color: orangered; height: 20vh;}
+    100%{background-color: aquamarine; height: 500vh;}
 }
