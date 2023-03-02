@@ -1,6 +1,7 @@
 /* Global Styles */
 * {
-    box-sizing: border-box;
+    align-items:center;
+    align-content: center;
     margin: auto;
     padding: 0;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -42,6 +43,7 @@ nav a:hover{
 
 /* Main Styles */
 main {
+    align-content: center;
     background-color: #DAE2DF;
     padding: 20px;
     display: flex;
@@ -50,7 +52,9 @@ main {
 }
 
 section {
-    margin: auto;
+    align-content: center;
+    margin:auto;
+    text-align:left;
     flex-direction: column;
     margin-bottom: 100px;
     padding: 50px;
@@ -144,5 +148,5 @@ nav a:hover {
 main {
   padding: 20px;
   max-width: 960px;
-  margin: 0
+  margin: 0;
 }
