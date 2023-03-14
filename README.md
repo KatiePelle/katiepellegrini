@@ -5,7 +5,7 @@
 
     #### HTML https://katiepelle.github.io/katiepellegrini/html-midterm.html
     
-    ###<a href="https://katiepelle.github.io/katiepellegrini/css/midterm.html>CSS</a>
+    ### <a href="https://katiepelle.github.io/katiepellegrini/css/midterm.html>CSS</a>
     
     ### JS
     
