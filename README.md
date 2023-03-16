@@ -59,7 +59,7 @@
     
     ### WA8 https://katiepelle.github.io/katiepellegrini/wa/wa8.html
     
-    ### WA9 https://katiepelle.github.io/katiepellegrini/js/wa9.html
+    ### WA9 https://katiepelle.github.io/katiepellegrini/wa/wa9.html
     
     ### WA10
     
