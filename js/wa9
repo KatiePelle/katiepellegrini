@@ -9,7 +9,7 @@ function randomValueFromArray(array){
   return array[random];
 }
 
-let storyText = 'On a freezing cold day in January, about 2 degrees fahrenheit, :insertx: decided to go on a ski trip. They decided to put on their favorite :inserty: to prepare for the trip. When they got up to the mountain everyone was making fun of them, even a little girl threw a giant :insertz: at their head that weighed about 20 pounds.'; 
+let storyText = 'On an average day in Boulder, Colorado, about 60 degrees fahrenheit, :insertx: decided to go on a walk. She decided to put on her favorite :inserty: to prepare for the walk. When she went outside, everyone was making fun of her. Even her neighbor tried to hit her with a large :insertz: at her head that weighed about 20 pounds. The End.'; 
 let insertX = ['Lilly Gwin', 'Katie Pellegrini', 'Jessica Youngs', 'MiRi Frasier', 'Kate Rowland'];
 let insertY = ['blazer', 'green sweatsuit', 'corset', 'panties'];
 let insertZ = ['tomato', 'capybara', 'shoe', 'corn husk', 'bunny rabbit'];
