@@ -5,7 +5,7 @@
 
     #### HTML https://katiepelle.github.io/katiepellegrini/html-midterm.html
     
-    ### <a href="https://katiepelle.github.io/katiepellegrini/css/midterm.html>CSS</a>
+    ### CSS https://katiepelle.github.io/katiepellegrini/css/midterm.html
     
     ### JS
     
@@ -57,9 +57,9 @@
     
     ### WA7 https://katiepelle.github.io/katiepellegrini/wa/wa7/wa7.html
     
-    ### WA8
+    ### WA8 https://katiepelle.github.io/katiepellegrini/wa/wa8.html
     
-    ### WA9
+    ### WA9 https://katiepelle.github.io/katiepellegrini/js/wa9.html
     
     ### WA10
     
