@@ -9,7 +9,7 @@ const alts = {
   'pic1.jpg' : 'Lilly and Ben',
   'pic2.jpg' : 'Katie and Maddie',
   'pic3.jpg' : 'MiRi and Mom',
-  'pic4.jpg' : 'Jess and Sarah',
+  'pic4.jpg' : 'Jessica and Sarah',
   'pic5.jpg' : 'Kate and Friends'
 }
 
