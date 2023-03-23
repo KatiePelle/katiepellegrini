@@ -1,6 +1,7 @@
 h1 {
   font-family: 'Courier New', Courier, monospace;
   text-align: center;
+  color:blueviolet
 }
 
 body {
@@ -24,7 +25,6 @@ body {
   left: 0;
   width: 640px;
   height: 640px;
-  background-color: rgb(219, 199, 255);
 }
 
 button {
