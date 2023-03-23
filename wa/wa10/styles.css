@@ -22,9 +22,9 @@ body {
   position: absolute;
   top: 0;
   left: 0;
-  width: 480px;
-  height: 480px;
-  background-color: rgba(190, 79, 79, 0);
+  width: 640px;
+  height: 640px;
+  background-color: rgb(219, 199, 255);
 }
 
 button {
