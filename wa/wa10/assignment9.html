@@ -1,69 +1,27 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Image Carousel</title>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Homecoming Circa 2015</title>
+
     <link rel="stylesheet" href="styles.css">
+    
+  </head>
 
-    <style>
-        h1 {
-  font-family: helvetica, arial, sans-serif;
-  text-align: center;
-}
+  <body>
+    <h1>Homecoming Circa 2015</h1>
 
-body {
-  width: 640px;
-  margin: 0 auto;
-}
+    <div class="full-img">
+      <img class="displayed-img" src="images/pic1.jpg" alt="Lilly and Ben">
+      <div class="overlay"></div>
+      <button class="dark">Darken</button>
+    </div>
 
-.full-img {
-  position: relative;
-  display: block;
-  width: 640px;
-  height: 480px;
-}
+    <div class="thumb-bar">
 
-.overlay {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 640px;
-  height: 480px;
-  background-color: rgba(0,0,0,0);
-}
 
-button {
-  border: 0;
-  background: rgba(150,150,150,0.6);
-  text-shadow: 1px 1px 1px white;
-  border: 1px solid #999;
-  position: absolute;
-  cursor: pointer;
-  top: 2px;
-  left: 2px;
-}
-
-.thumb-bar img {
-  display: block;
-  width: 20%;
-  float: left;
-  cursor: pointer;
-}
-    </style>
-</head>
-<body>
-    <h1>Image gallery example</h1>
-
-<div class="full-img">
-  <img
-    class="displayed-img"
-    src="pic1.JPG"
-    alt="Lilly and Ben" />
-  <div class="overlay"></div>
-  <button class="dark">Darken</button>
-</div>
-
-<div class="thumb-bar"></div>
-<script src="carousel.js"></script>
-</body>
+    </div>
+    <script src="carousel.js"></script>
+  </body>
 </html>
