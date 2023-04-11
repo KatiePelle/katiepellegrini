@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <title>JSON: Task 1</title>
+    <style>
+      p {
+        color: purple;
+        margin: 0.5em 0;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+    </style>
+    <link rel="stylesheet" href="../styles.css" />
+  </head>
+  
+  <body>
+    <section class="preview">
+    </section>
+  </body>
+  
+  <script>
+    const section = document.querySelector('section');
+
+    let para1 = document.createElement('p');
+    let para2 = document.createElement('p');
+    let motherInfo = 'The mother cats are called ';
+    let kittenInfo;
+    const requestURL = 'https://mdn.github.io/learning-area/javascript/oojs/tasks/json/sample.json';
+
+    fetch(requestURL)
+    .then(response => response.text())
+    .then(text => displayCatInfo(text))
+
+    function displayCatInfo(catString) {
+      let total = 0;
+      let male = 0;
+
+      // Add your code here
+      newText = JSON.parse(catString);
+for (let i = 0; i < newText.length; i++) {
+ if (i === newText.length - 1) { 
+ motherInfo += ' and ' + newText[i]['name'] + '.';
+ } else if (i === newText.length - 2)  {
+ motherInfo += newText[i]['name'];
+ } else {
+ motherInfo += newText[i]['name'] + ', ';
+ }
+for (let j = 0; j < newText[i]['kittens'].length; j++) {
+ total += 1;
+if (newText[i]['kittens'][j]['gender'] === 'm') {
+ male += 1;
+}
+
+}
+ 
+} 
+
+kittenInfo = `There are ${total} kittens and ${male} are male and ${total - male} are female`
+
+let female = 0;
+
+
+      // Don't edit the code below here!
+
+      para1.textContent = motherInfo;
+      para2.textContent = kittenInfo;
+    }
+
+    section.appendChild(para1);
+    section.appendChild(para2);
+
+    [
+    {
+      "name" : "Lindy",
+      "breed" : "Cymric",
+      "color" : "white",
+      "kittens" : [
+        {
+          "name" : "Percy",
+          "gender" : "m"
+        },
+        {
+          "name" : "Thea",
+          "gender" : "f"
+        },
+        {
+          "name" : "Annis",
+          "gender" : "f"
+        }
+      ]
+    },
+    {
+      "name" : "Mina",
+      "breed" : "Aphrodite Giant",
+      "color" : "ginger",
+      "kittens" : [
+        {
+          "name" : "Doris",
+          "gender" : "f"
+        },
+        {
+          "name" : "Pickle",
+          "gender" : "f"
+        },
+        {
+          "name" : "Max",
+          "gender" : "m"
+        }
+      ]
+    },
+    {
+      "name" : "Antonia",
+      "breed" : "Ocicat",
+      "color" : "leopard spotted",
+      "kittens" : [
+        {
+          "name" : "Bridget",
+          "gender" : "f"
+        },
+        {
+          "name" : "Randolph",
+          "gender" : "m"
+        }
+      ]
+    }
+  ]
+  
+  </script>
+
+</html>
