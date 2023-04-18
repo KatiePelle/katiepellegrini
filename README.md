@@ -7,7 +7,7 @@
     
     ### CSS https://katiepelle.github.io/katiepellegrini/css/midterm.html
     
-    ### JS
+    ### JS https://katiepelle.github.io/katiepellegrini/js/assignment13.html
     
 ## In-Class Assignments
         
