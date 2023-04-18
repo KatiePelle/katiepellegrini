@@ -25,9 +25,9 @@
         
 ### [ICA7](https://katiepelle.github.io/katiepellegrini/ica/ica7.html)
         
-### ICA8 
+### [ICA8](https://www.pictureofhotdog.com/make-it-a-winner)
     
-### ICA9
+### [ICA9](https://www.pictureofhotdog.com/make-it-a-winner)
         
 ### [ICA10](https://katiepelle.github.io/katiepellegrini/ica/ica10.html)
             
