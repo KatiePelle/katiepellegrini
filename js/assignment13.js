@@ -1,14 +1,12 @@
-const volumeUp = document.querySelector('#volume-up');
-const volumeDown = document.querySelector('#volume-down');
+function increaseVolume() {
+  var volumeLevel = document.getElementById("volume-level");
+  volumeLevel.innerText = parseInt(volumeLevel.innerText) + 10;
+  document.body.style.backgroundColor = `rgb(${Math.random()*256}, ${Math.random()*256}, ${Math.random()*256})`; /* Random background color */
+}
 
-volumeUp.addEventListener('click', () => {
-  for(let i = 0; i < 999999999; i++) {
-    console.log('Turning volume up...');
-  }
-});
-
-volumeDown.addEventListener('click', () => {
-  for(let i = 0; i < 999999999; i++) {
-    console.log('Turning volume down...');
-  }
-});
+function decreaseVolume() {
+  var volumeLevel = document.getElementById("volume-level");
+  volumeLevel.innerText = parseInt(volumeLevel.innerText) - 10;
+  var volumeIndicator = document.getElementById("volume-indicator");
+  volumeIndicator.style.fontSize = `${Math.random()*50 + 20}px`; /* Random font size */
+}

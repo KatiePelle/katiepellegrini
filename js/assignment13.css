@@ -1,24 +1,21 @@
-#volume-up {
-    background-color: red;
-    width: 100px;
-    height: 100px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    margin-top: -50px;
-    margin-left: 50px;
-    border-radius: 50%;
-  }
-  
-  #volume-down {
-    background-color: blue;
-    width: 100px;
-    height: 100px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    margin-top: -50px;
-    margin-left: -150px;
-    border-radius: 50%;
-  }
-  
+body {
+  background-color: #FF0000; /* Red background */
+}
+
+button {
+  font-size: 20px;
+  padding: 20px;
+  background-color: #000;
+  color: #FFF;
+  border: none;
+}
+
+#volume-indicator {
+  font-size: 30px;
+  margin-top: 50px;
+  color: #FFF;
+}
+
+#volume-level {
+  font-weight: bold;
+}
