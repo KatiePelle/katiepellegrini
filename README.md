@@ -5,37 +5,37 @@
 
 ### [HTML](https://katiepelle.github.io/katiepellegrini/html-midterm.html)
     
-### CSS https://katiepelle.github.io/katiepellegrini/css/midterm.html
+### [CSS](https://katiepelle.github.io/katiepellegrini/css/midterm.html)
     
-### JS https://katiepelle.github.io/katiepellegrini/js/assignment13.html
+### [JS](https://katiepelle.github.io/katiepellegrini/js/assignment13.html)
     
 ## In-Class Assignments
         
-### ICA1 https://katiepelle.github.io/katiepellegrini/ica/ica1.html
+### [ICA1](https://katiepelle.github.io/katiepellegrini/ica/ica1.html)
         
-### ICA2 https://katiepelle.github.io/katiepellegrini/ica/ica2.html
+### [ICA2](https://katiepelle.github.io/katiepellegrini/ica/ica2.html)
         
-### ICA3 https://katiepelle.github.io/katiepellegrini/ica/ica3a.html https://katiepelle.github.io/katiepellegrini/ica/ica3b.html
+### [ICA3 pt. 1](https://katiepelle.github.io/katiepellegrini/ica/ica3a.html) [pt. 2](https://katiepelle.github.io/katiepellegrini/ica/ica3b.html)
     
-### ICA4 https://katiepelle.github.io/katiepellegrini/ica/ica4.html
+### [ICA4](https://katiepelle.github.io/katiepellegrini/ica/ica4.html)
         
-### ICA5 https://katiepelle.github.io/katiepellegrini/ica/ica5.html
+### [ICA5](https://katiepelle.github.io/katiepellegrini/ica/ica5.html)
             
-### ICA6 https://katiepelle.github.io/katiepellegrini/ica/ica6/ica6-part1.html
+### [ICA6](https://katiepelle.github.io/katiepellegrini/ica/ica6/ica6-part1.html)
         
-### ICA7 https://katiepelle.github.io/katiepellegrini/ica/ica7.html
+### [ICA7](https://katiepelle.github.io/katiepellegrini/ica/ica7.html)
         
 ### ICA8 
     
 ### ICA9
         
-### ICA10 https://katiepelle.github.io/katiepellegrini/ica/ica10.html
+### [ICA10](https://katiepelle.github.io/katiepellegrini/ica/ica10.html)
             
-### ICA11 https://katiepelle.github.io/katiepellegrini/ica/ica11/ica11.html
+### [ICA11](https://katiepelle.github.io/katiepellegrini/ica/ica11/ica11.html)
         
-### ICA12 https://katiepelle.github.io/katiepellegrini/ica/ica12/ica12.html
+### [ICA12](https://katiepelle.github.io/katiepellegrini/ica/ica12/ica12.html)
         
-### ICA13 https://katiepelle.github.io/katiepellegrini/ica/wa13/wa13.html
+### [ICA13](https://katiepelle.github.io/katiepellegrini/ica/wa13/wa13.html)
     
 ### ICA14
         
