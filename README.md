@@ -43,31 +43,31 @@
     
 ## Weekly Assignments
 
-### WA1 https://katiepelle.github.io/katiepellegrini/wa/wa1.html
+### [WA1](https://katiepelle.github.io/katiepellegrini/wa/wa1.html)
     
-### WA2 https://katiepelle.github.io/katiepellegrini/wa/wa2.html
+### [WA2](https://katiepelle.github.io/katiepellegrini/wa/wa2.html)
     
-### WA3 https://katiepelle.github.io/katiepellegrini/wa/wa3.html
+### [WA3](https://katiepelle.github.io/katiepellegrini/wa/wa3.html)
     
-### WA4 https://katiepelle.github.io/katiepellegrini/wa/wa4.html
+### [WA4](https://katiepelle.github.io/katiepellegrini/wa/wa4.html)
     
-### WA5 https://katiepelle.github.io/katiepellegrini/wa/wa5.html
+### [WA5](https://katiepelle.github.io/katiepellegrini/wa/wa5.html)
     
-### WA6 https://katiepelle.github.io/katiepellegrini/wa/wa6.html
+### [WA6](https://katiepelle.github.io/katiepellegrini/wa/wa6.html)
     
-### WA7 https://katiepelle.github.io/katiepellegrini/wa/wa7/wa7.html
+### [WA7](https://katiepelle.github.io/katiepellegrini/wa/wa7/wa7.html)
     
-### WA8 https://katiepelle.github.io/katiepellegrini/wa/wa8.html
+### [WA8](https://katiepelle.github.io/katiepellegrini/wa/wa8.html)
     
-### WA9 https://katiepelle.github.io/katiepellegrini/wa/wa9.html
+### [WA9](https://katiepelle.github.io/katiepellegrini/wa/wa9.html)
     
-### WA10 https://katiepelle.github.io/katiepellegrini/wa/wa10/assignment9.html
+### [WA10](https://katiepelle.github.io/katiepellegrini/wa/wa10/assignment9.html)
     
-### WA11 https://katiepelle.github.io/katiepellegrini/wa/wa11/wa11.html
+### [WA11](https://katiepelle.github.io/katiepellegrini/wa/wa11/wa11.html)
     
-### WA12 https://katiepelle.github.io/katiepellegrini/wa/wa12/wa12.html
+### [WA12](https://katiepelle.github.io/katiepellegrini/wa/wa12/wa12.html)
     
-### WA13 https://katiepelle.github.io/katiepellegrini/js/assignment13.html
+### [WA13](https://katiepelle.github.io/katiepellegrini/js/assignment13.html)
     
 ### WA14
     
