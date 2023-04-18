@@ -25,15 +25,15 @@
         
     ### ICA7 https://katiepelle.github.io/katiepellegrini/ica/ica7.html
         
-    ### ICA8
+    ### ICA8 
     
     ### ICA9
         
-    ### ICA10
+    ### ICA10 https://katiepelle.github.io/katiepellegrini/ica/ica10.html
             
     ### ICA11 https://katiepelle.github.io/katiepellegrini/ica/ica11/ica11.html
         
-    ### ICA12
+    ### ICA12 https://katiepelle.github.io/katiepellegrini/ica/ica12/ica12.html
         
     ### ICA13 https://katiepelle.github.io/katiepellegrini/ica/wa13/wa13.html
     
@@ -63,11 +63,11 @@
     
     ### WA10 https://katiepelle.github.io/katiepellegrini/wa/wa10/assignment9.html
     
-    ### WA11
+    ### WA11 https://katiepelle.github.io/katiepellegrini/wa/wa11/wa11.html
     
-    ### WA12
+    ### WA12 https://katiepelle.github.io/katiepellegrini/wa/wa12/wa12.html
     
-    ### WA13
+    ### WA13 https://katiepelle.github.io/katiepellegrini/js/assignment13.html
     
     ### WA14
     
