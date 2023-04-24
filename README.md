@@ -7,7 +7,7 @@
     
 ### [CSS](https://katiepelle.github.io/katiepellegrini/css/midterm.html)
     
-### [JS](https://katiepelle.github.io/katiepellegrini/js/assignment13.html)
+### [JS](https://katiepelle.github.io/katiepellegrini/js/Final/game.html)
     
 ## In-Class Assignments
         
