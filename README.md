@@ -7,7 +7,7 @@
     
 ### [CSS](https://katiepelle.github.io/katiepellegrini/css/midterm.html)
     
-### [JS](https://katiepelle.github.io/katiepellegrini/js/assignment13.html)
+### [JS](https://katiepelle.github.io/katiepellegrini/js/Final/game.html)
     
 ## In-Class Assignments
         
@@ -37,10 +37,6 @@
         
 ### [ICA13](https://katiepelle.github.io/katiepellegrini/ica/wa13/wa13.html)
     
-### ICA14
-        
-### ICA15
-    
 ## Weekly Assignments
 
 ### [WA1](https://katiepelle.github.io/katiepellegrini/wa/wa1.html)
@@ -68,7 +64,3 @@
 ### [WA12](https://katiepelle.github.io/katiepellegrini/wa/wa12/wa12.html)
     
 ### [WA13](https://katiepelle.github.io/katiepellegrini/js/assignment13.html)
-    
-### WA14
-    
-### WA15
