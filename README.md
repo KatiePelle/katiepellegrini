@@ -64,3 +64,5 @@
 ### [WA12](https://katiepelle.github.io/katiepellegrini/wa/wa12/wa12.html)
     
 ### [WA13](https://katiepelle.github.io/katiepellegrini/js/assignment13.html)
+
+### [WA14](https://katiepelle.github.io/katiepellegrini/wa/wa14.html)
