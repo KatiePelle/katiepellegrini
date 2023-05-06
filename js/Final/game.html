@@ -1,20 +1,23 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<title>Typing Speed Test</title>
-	<link rel="stylesheet" type="text/css" href="final.css">
-</head>
-<body>
-	<h1>Typing Speed Test</h1>
-	<div class="game">
-		<p id="text"></p>
-		<input type="text" id="input" placeholder="Type the text above">
-		<button id="start" class="button">Start</button>
-		<button id="submit" class="button" disabled>Submit</button>
-		<button id="reset" class="button" disabled>Reset</button>
-		<p id="time"></p>
-		<p id="speed"></p>
-	</div>
-	<script src="final.js"></script>
-</body>
+  <head>
+    <title>Clicker Game</title>
+    <link rel="stylesheet" href="final.css">
+  </head>
+  <body>
+    <div class="container">
+      <h1>Clicker Game</h1>
+      <div id="play-button" class="button" onclick="startGame()">Start Game</div>
+      <div id="click-button" class="button" style="display: none" onclick="incrementCount()">Click Me!</div>
+      <div id="click-count">0 clicks</div>
+      <div id="timer">10</div>
+      <div id="results" style="display: none">
+        <h2>Results</h2>
+        <div id="score"></div>
+        <div id="rank"></div>
+        <div class="button" onclick="resetGame()">Play Again</div>
+      </div>
+    </div>
+    <script src="final.js"></script>
+  </body>
 </html>
